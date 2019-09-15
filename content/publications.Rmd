@@ -1,0 +1,16 @@
+---
+title: "Publications"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+See my [Google Scholar profile](https://scholar.google.com/citations?user=q6H2A-oAAAAJ&hl=en&oi=sra).
+
+* **Bolam, F.C.**, Grainger, M.J., Mengersen, K.L., Stewart, G.B., Sutherland, W.J., Runge, M.C., McGowan, P.J.K (2019) Using the Value of Information to improve conservation decision making. *Biological Reviews*, 94(2), pp.629-647. [Available here](https://www.researchgate.net/publication/328042335_Using_the_Value_of_Information_to_improve_conservation_decision_making).
+
+* Carrick, J., Abdul Rahim, M.S.A.B., Adjei, C., Ashraa Kalee, H.H.H., Banks, S.J., **Bolam, F.C.**, et al. (2018) Is planting trees the solution to reducing flood risks? *Journal of Flood Risk Management*. [Available here](https://www.researchgate.net/publication/326445643_Is_Planting_Trees_the_Solution_to_Reducing_Flood_Risks).
+
+* **Bolam, F.C.**, Mair, L., Smart, J., Nguyen, D., McGowan, P.J.K. (2018) Supporting achievement of Aichi Biodiversity Target 12 of the Strategic Plan for Biodiversity 2011-2020. *Information document to the CBD: CBD/SBSTTA/22/INF/32.* [Available here](https://www.cbd.int/doc/c/1ad4/1c0b/198a8894452fea7d36b089c1/sbstta-22-inf-32-en.pdf).

@@ -1,0 +1,14 @@
+---
+title: "About"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+I am a post-doctoral research associate in the [**Modelling, Evidence and Policy group**](https://www.ncl.ac.uk/nes/research/biology/modelling-evidence-policy/#ourresearch) at Newcastle University, UK. My work relates to global biodiversity policy; the Convention on Biological Diversity’s [**Aichi targets**](https://www.cbd.int/sp/targets/) with a focus on Target 12 on preventing species extinctions and reversing declines, and the Sustainable Development Goals with a focus on Goal 14, Life below Water, and Goal 15, Life on Land.
+
+
+I have a strong interest in reproducible research with open workflows for data management and statistical analysis in science, as well as improving the programming skills amongst researchers. I have taught R skills to students from undergraduate to PhD level, and I am also a co-organiser of the [**Newcastle chapter**](https://www.meetup.com/rladies-newcastle/) of [**R-Ladies**](https://rladies.org/).
